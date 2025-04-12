@@ -89,7 +89,8 @@ Este projeto está licenciado sob a MIT License . Veja o arquivo LICENSE para ma
 📧 Contato
 Se tiver dúvidas ou sugestões, entre em contato:
 
-Email: seu-email@exemplo.com
+https://proofofenergy.blogspot.com/
+Email: 3runes.oracle@gmail.com
 GitHub: @armazen-nft
 Observações Finais
 Personalize este README.md conforme necessário para incluir mais detalhes específicos do seu projeto, como capturas de tela, exemplos de uso ou links adicionais.
